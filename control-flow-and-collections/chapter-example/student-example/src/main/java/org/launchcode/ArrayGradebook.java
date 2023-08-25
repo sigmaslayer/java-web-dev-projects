@@ -43,6 +43,7 @@ public class ArrayGradebook {
             sum += grades[i];
         }
 
+
         double avg = sum / numStudents;
         System.out.println("Average grade: " + avg);
     }
