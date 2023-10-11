@@ -13,5 +13,6 @@ public class MilesPerGallon {
 
         System.out.println("Driving " + miles + " miles and using " + gasUse + " gallons of gas, means your miles per gallon is " + milesPerGallon);
         input.close();
+
     }
 }
